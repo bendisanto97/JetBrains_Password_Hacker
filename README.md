@@ -1,6 +1,5 @@
 # JetBrains - Password Hacker Project
-JetBrains Academy Python Developer Project
-[Password Hacker Project](https://hyperskill.org/projects/80?track=2)
+[JetBrains Academy Python Developer Project](https://hyperskill.org/projects/80?track=2)
 
 ## Description
 In this project you’ll wear the hat of a real hacker. You must connect to a secret server without knowing the password. Your task is to write a Python program that can hack this password, and do so in the quickest way possible.
