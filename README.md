@@ -23,9 +23,9 @@ Use examples liberally, and show the expected output if you can. It's helpful to
 If you have ideas for releases in the future, it is a good idea to list them in the README.
 
 ## Author
-[Benjamin DI SANTO](https://github.com/bendisanto97)
-benjamindisanto97@gmail.com
-4th Year Student at ECE Paris
+[Benjamin DI SANTO](https://github.com/bendisanto97)  
+benjamindisanto97@gmail.com  
+4th Year Student at ECE Paris  
 
 ## Licence
 This project is licensed under the GNU General Public License V3.0 - see the [LICENSE](LICENSE) file for details
